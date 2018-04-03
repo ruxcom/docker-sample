@@ -1,0 +1,10 @@
+/Users/com3683/Playground/api1/bin/Debug/netcoreapp2.0/api1.deps.json
+/Users/com3683/Playground/api1/bin/Debug/netcoreapp2.0/api1.runtimeconfig.json
+/Users/com3683/Playground/api1/bin/Debug/netcoreapp2.0/api1.runtimeconfig.dev.json
+/Users/com3683/Playground/api1/bin/Debug/netcoreapp2.0/api1.dll
+/Users/com3683/Playground/api1/bin/Debug/netcoreapp2.0/api1.pdb
+/Users/com3683/Playground/api1/obj/Debug/netcoreapp2.0/api1.csproj.CoreCompileInputs.cache
+/Users/com3683/Playground/api1/obj/Debug/netcoreapp2.0/api1.AssemblyInfoInputs.cache
+/Users/com3683/Playground/api1/obj/Debug/netcoreapp2.0/api1.AssemblyInfo.cs
+/Users/com3683/Playground/api1/obj/Debug/netcoreapp2.0/api1.dll
+/Users/com3683/Playground/api1/obj/Debug/netcoreapp2.0/api1.pdb
